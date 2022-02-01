@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background: linear-gradient(#67e0f5 0%, #b1f882 70%, #fd88f7 100%);
+
+}
+
+#text{
+    width: 60%;
+}
+
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0;
+}
+
+#status, #number_of_objects
+{
+    font-size: 20px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: grey;
+    background-color: white;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+}
+
+canvas
+{
+    border: 3px solid white;
+    border-radius: 10px;
+    margin-top: 100px;
+    box-shadow: 5px 5px 5px white;
+}
